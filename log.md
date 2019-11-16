@@ -3,9 +3,8 @@
 ### Day 0: November 16, 2019)
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Folk the repository from Github to my master , open in Desktop app ( OSx), and work
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It´s an easy task, but I need to do for understand the GitHub proccess, and how do when I did cahnges to my desktop version an commit to the master.
 
-**Link to work:** 
-
+**Link to work:**
